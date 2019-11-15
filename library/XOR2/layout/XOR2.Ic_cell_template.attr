@@ -1,0 +1,36 @@
+A 5 u Ic_cell_template 5c0b31be26dd.03.80.eb.2c.48.00.39.02 23 4 5 0
+V v 19 2 5c0eff194c68.03.80.eb.2c.48.00.1d.11
+F f 19 "XOR2.iccel_19"
+F o 0 ""
+V v 20 2 5c0eff83815d.03.80.eb.2c.48.00.1d.11
+F f 20 "XOR2.iccel_20"
+F o 0 ""
+V v 21 2 5c0f003f84db.03.80.eb.2c.48.00.1d.11
+F f 21 "XOR2.iccel_21"
+F o 0 ""
+V v 22 2 5c0f00ec200c.03.80.eb.2c.48.00.1d.11
+F f 22 "XOR2.iccel_22"
+F o 0 ""
+V v 23 2 5c0f028fc842.03.80.eb.2c.48.00.1d.11
+F f 23 "XOR2.iccel_23"
+F o 0 ""
+O 23
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/XOR2/layout/XOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c0b31bdcc49.03.80.eb.2c.48.01.39.02 5c0b31bdcc49.03.80.eb.2c.48.00.39.02
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 22
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/XOR2/layout/XOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c0b31bdcc49.03.80.eb.2c.48.01.39.02 5c0b31bdcc49.03.80.eb.2c.48.00.39.02
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 21
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/XOR2/layout/XOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c0b31bdcc49.03.80.eb.2c.48.01.39.02 5c0b31bdcc49.03.80.eb.2c.48.00.39.02
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 20
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/XOR2/layout/XOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c0b31bdcc49.03.80.eb.2c.48.01.39.02 5c0b31bdcc49.03.80.eb.2c.48.00.39.02
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 19
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/XOR2/layout/XOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c0b31bdcc49.03.80.eb.2c.48.01.39.02 5c0b31bdcc49.03.80.eb.2c.48.00.39.02
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file

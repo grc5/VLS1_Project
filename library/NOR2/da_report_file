@@ -1,0 +1,13 @@
+
+
+Check Symbol "NOR2/NOR2"
+Check Body -------   0 errors   0 warnings  (MGC-required)
+Check Interface --   0 errors   3 warnings
+  Warning:  The following pins on the symbol are not on the interface: I[0]
+  Warning:  The following pins on the symbol are not on the interface: I[1]
+  Warning:  The following pins on the symbol are not on the interface: out
+
+Check Pin --------   0 errors   0 warnings  (MGC-required)
+Check Special ----   0 errors   0 warnings  (MGC-required)
+
+ "NOR2/NOR2" passed check :  0 Errors, 3 Warnings

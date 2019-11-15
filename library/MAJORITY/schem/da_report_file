@@ -1,0 +1,42 @@
+
+
+Check Schematic  "MAJORITY/schematic/sheet1"
+Check Sheet "MAJORITY/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "MAJORITY/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Schematic is not registered with an interface
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "MAJORITY/schematic/sheet1" passed check :  0 Errors, 1 Warnings
+
+
+Check Symbol "MAJORITY/MAJORITY"
+Check Body -------   0 errors   0 warnings  (MGC-required)
+Check Interface --   0 errors   4 warnings
+  Warning:  The following pins on the symbol are not on the interface: I[0]
+  Warning:  The following pins on the symbol are not on the interface: I[1]
+  Warning:  The following pins on the symbol are not on the interface: I[2]
+  Warning:  The following pins on the symbol are not on the interface: out
+
+Check Pin --------   0 errors   0 warnings  (MGC-required)
+Check Special ----   0 errors   0 warnings  (MGC-required)
+
+ "MAJORITY/MAJORITY" passed check :  0 Errors, 4 Warnings

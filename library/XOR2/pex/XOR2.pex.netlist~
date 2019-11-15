@@ -1,0 +1,37 @@
+* File: XOR2.pex.netlist
+* Created: Mon Dec 10 19:21:33 2018
+* Program "Calibre xRC"
+* Version "v2012.2_36.25"
+* 
+.include "XOR2.pex.netlist.pex"
+.subckt XOR2  GND VDD I[1] I[2] I[3] I[4] OUT
+* 
+* OUT	OUT
+* I[4]	I[4]
+* I[3]	I[3]
+* I[2]	I[2]
+* I[1]	I[1]
+* VDD	VDD
+* GND	GND
+M0 N_9_M0_d N_I[1]_M0_g N_GND_M0_s N_GND_M0_b n L=1.8e-07 W=5.4e-07 AD=1.944e-13
++ AS=2.5515e-13
+M1 N_OUT_M1_d N_I[2]_M1_g N_9_M1_s N_GND_M0_b n L=1.8e-07 W=5.4e-07 AD=2.916e-13
++ AS=1.944e-13
+M2 N_10_M2_d N_I[3]_M2_g N_OUT_M2_s N_GND_M0_b n L=1.8e-07 W=5.4e-07
++ AD=1.944e-13 AS=2.916e-13
+M3 N_GND_M3_d N_I[4]_M3_g N_10_M3_s N_GND_M0_b n L=1.8e-07 W=5.4e-07
++ AD=2.5515e-13 AS=1.944e-13
+M4 N_8_M4_d N_I[1]_M4_g N_VDD_M4_s N_VDD_M4_b p L=1.8e-07 W=1.08e-06
++ AD=5.832e-13 AS=5.2245e-13
+M5 N_VDD_M5_d N_I[2]_M5_g N_8_M5_s N_VDD_M4_b p L=1.8e-07 W=1.08e-06
++ AD=5.2245e-13 AS=5.832e-13
+M6 N_OUT_M6_d N_I[3]_M6_g N_8_M6_s N_VDD_M4_b p L=1.8e-07 W=1.08e-06
++ AD=5.832e-13 AS=5.346e-13
+M7 N_8_M7_d N_I[4]_M7_g N_OUT_M7_s N_VDD_M4_b p L=1.8e-07 W=1.08e-06
++ AD=6.318e-13 AS=5.832e-13
+*
+.include "XOR2.pex.netlist.XOR2.pxi"
+*
+.ends
+*
+*

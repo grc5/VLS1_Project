@@ -1,0 +1,13 @@
+A 5 u mgc_schematic 5c104e55e334.03.80.eb.2c.48.00.29.5f 4 2 1 0
+V v 2 1 5c104e7a1b9d.03.80.eb.2c.48.00.29.5f
+F o 0 ""
+V v 3 1 5c104e81636a.03.80.eb.2c.48.00.29.5f
+F o 0 ""
+V v 4 1 5c105aedb3f2.03.80.eb.2c.48.00.52.09
+F o 0 ""
+O 4
+R cspuv 0 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic/sheet1" 3 mgc_sheet 5c105aedb2f8.03.80.eb.2c.48.00.52.09 5c104e55efcc.03.80.eb.2c.48.00.29.5f
+O 3
+R cspuv 0 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic/sheet1" 2 mgc_sheet 5c104e816296.03.80.eb.2c.48.00.29.5f 5c104e55efcc.03.80.eb.2c.48.00.29.5f
+O 2
+R cspuv 0 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic/sheet1" 1 mgc_sheet 5c104e55efcc.03.80.eb.2c.48.01.29.5f 5c104e55efcc.03.80.eb.2c.48.00.29.5f

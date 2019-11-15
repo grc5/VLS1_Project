@@ -1,0 +1,13 @@
+A 5 u mgc_schematic 5bf47ccd20fc.03.80.eb.2c.48.00.33.4b 20 2 1 0
+V v 18 1 5c0b2299752b.03.80.eb.2c.48.00.0e.d1
+F o 0 ""
+V v 19 1 5c0b273a5799.03.80.eb.2c.48.00.0e.d1
+F o 0 ""
+V v 20 1 5c131ea7ac23.03.80.eb.2c.48.00.14.8a
+F o 0 ""
+O 20
+R cspuv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/schematic/sheet1" 19 mgc_sheet 5c131ea7a8b9.03.80.eb.2c.48.00.14.8a 5bf47ccd2442.03.80.eb.2c.48.00.33.4b
+O 19
+R cspuv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/schematic/sheet1" 18 mgc_sheet 5c0b273a51f1.03.80.eb.2c.48.00.0e.d1 5bf47ccd2442.03.80.eb.2c.48.00.33.4b
+O 18
+R cspuv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/schematic/sheet1" 17 mgc_sheet 5c0b2299734f.03.80.eb.2c.48.00.0e.d1 5bf47ccd2442.03.80.eb.2c.48.00.33.4b

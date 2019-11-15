@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 5c1c639ea025.03.80.eb.2c.4a.00.45.e9 1 2 1 0
+V v 1 2 5c1c639ea025.03.80.eb.2c.4a.01.45.e9
+F f 1 "INVERTER.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/VLSI/library/INVERTER/schem/INVERTER/part" 2 Eddm_part 5c1c63cb1cb2.03.80.eb.2c.4a.00.45.e9 5c104e7a15de.03.80.eb.2c.48.00.29.5f

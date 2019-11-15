@@ -1,0 +1,19 @@
+A 5 u Eddm_part 5c16d05d4c93.03.80.eb.2c.4b.00.64.bf 4 2 2 0
+V v 2 1 5c16d08243ac.03.80.eb.2c.4b.00.64.bf
+F f 2 "part.part_2"
+V v 3 1 5c16d2b26a0d.03.80.eb.2c.4b.00.64.bf
+F f 3 "part.part_3"
+V v 4 1 5c16d30df1ad.03.80.eb.2c.4b.00.64.bf
+F f 4 "part.part_4"
+O 4
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/schematic" 1 mgc_schematic 5c16cd3d8091.03.80.eb.2c.4b.01.64.bf 5c16cd3d8091.03.80.eb.2c.4b.00.64.bf
+R csduv 1 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/MUX2_1" 3 mgc_symbol 5c16d30df1aa.03.80.eb.2c.4b.00.64.bf 5c16d0823f99.03.80.eb.2c.4b.00.64.bf
+O 3
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/schematic" 1 mgc_schematic 5c16cd3d8091.03.80.eb.2c.4b.01.64.bf 5c16cd3d8091.03.80.eb.2c.4b.00.64.bf
+R csduv 1 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/MUX2_1" 2 mgc_symbol 5c16d2b2686f.03.80.eb.2c.4b.00.64.bf 5c16d0823f99.03.80.eb.2c.4b.00.64.bf
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/schematic" 1 mgc_schematic 5c16cd3d8091.03.80.eb.2c.4b.01.64.bf 5c16cd3d8091.03.80.eb.2c.4b.00.64.bf
+R csduv 1 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/MUX2_1" 1 mgc_symbol 5c16d0823f99.03.80.eb.2c.4b.01.64.bf 5c16d0823f99.03.80.eb.2c.4b.00.64.bf

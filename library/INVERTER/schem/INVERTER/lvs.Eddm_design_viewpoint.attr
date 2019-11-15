@@ -1,0 +1,11 @@
+A 5 u Eddm_design_viewpoint 5c10717b5374.03.80.eb.2c.48.00.7c.35 1 2 2 0
+V v 1 4 5c10717b5375.03.80.eb.2c.48.00.7c.35
+F f 1 "lvs.dvpt_1"
+F o 0 
+F o 0 
+F o 0 
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R cspuv 0 "/afs/cad/u/j/p/jpw33/VLSI/library/INVERTER/schem/INVERTER/part" 1 Eddm_part 5c104e7a15de.03.80.eb.2c.48.01.29.5f 5c104e7a15de.03.80.eb.2c.48.00.29.5f
+R cspuv 1 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic" 1 mgc_schematic 5c104e55e334.03.80.eb.2c.48.01.29.5f 5c104e55e334.03.80.eb.2c.48.00.29.5f
+P "eddm__refer_state" "eddm__refer_floating"

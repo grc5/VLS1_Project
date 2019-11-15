@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 3
+lvs_ExtRunTimes 1545018299 1545018299
+lvs_ExtOutFile RUNDIR /afs/cad.njit.edu/u/j/p/jpw33/VLSI/library/D_FF/pex
+lvs_ExtOutFile RULES_FILE /afs/cad.njit.edu/u/j/p/jpw33/VLSI/library/D_FF/pex/_tsmc018.calibre.rules_
+lvs_ExtInfoExtSummary {0 0 0 0 1 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST svdb/D_FF.sp
+lvs_ExtOutFile EXTRACTION_REPORT D_FF.lvs.report.ext

@@ -1,0 +1,16 @@
+A 5 u mgc_symbol 5c0b2506815e.03.80.eb.2c.48.00.0e.d1 4 2 1 0
+V v 2 2 5c0b25a57309.03.80.eb.2c.48.00.0e.d1
+F f 2 "XOR2.smbl_2"
+F o 0 ""
+V v 3 2 5c1c626ddabf.03.80.eb.2c.4a.00.45.e9
+F f 3 "XOR2.smbl_3"
+F o 0 ""
+V v 4 2 5c1c6290d1e9.03.80.eb.2c.4a.00.45.e9
+F f 4 "XOR2.smbl_4"
+F o 0 ""
+O 4
+R csduv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/part" 3 Eddm_part 5c1c627cd549.03.80.eb.2c.4a.00.45.e9 5bf48fb25f4c.03.80.eb.2c.48.00.33.4b
+O 3
+R csduv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/part" 3 Eddm_part 5c1c627cd549.03.80.eb.2c.4a.00.45.e9 5bf48fb25f4c.03.80.eb.2c.48.00.33.4b
+O 2
+R csduv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/part" 2 Eddm_part 5c0b2566b6c1.03.80.eb.2c.48.00.0e.d1 5bf48fb25f4c.03.80.eb.2c.48.00.33.4b

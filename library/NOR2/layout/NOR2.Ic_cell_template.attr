@@ -1,0 +1,29 @@
+A 5 u Ic_cell_template 5c12c77f689b.03.80.eb.2c.48.00.67.cf 4 4 4 0
+V v 1 2 5c12c91e9018.03.80.eb.2c.48.00.67.cf
+F f 1 "NOR2.iccel_1"
+F o 0 
+V v 2 2 5c12c93175ee.03.80.eb.2c.48.00.67.cf
+F f 2 "NOR2.iccel_2"
+F o 0 
+V v 3 2 5c12ca6560a3.03.80.eb.2c.48.00.67.cf
+F f 3 "NOR2.iccel_3"
+F o 0 
+V v 4 2 5c12ca6920cb.03.80.eb.2c.48.00.67.cf
+F f 4 "NOR2.iccel_4"
+F o 0 
+O 4
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/NOR2/layout/NOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c12c77f63b6.03.80.eb.2c.48.01.67.cf 5c12c77f63b6.03.80.eb.2c.48.00.67.cf
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 3
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/NOR2/layout/NOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c12c77f63b6.03.80.eb.2c.48.01.67.cf 5c12c77f63b6.03.80.eb.2c.48.00.67.cf
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 2
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/NOR2/layout/NOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c12c77f63b6.03.80.eb.2c.48.01.67.cf 5c12c77f63b6.03.80.eb.2c.48.00.67.cf
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 1
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/NOR2/layout/NOR2_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c12c77f63b6.03.80.eb.2c.48.01.67.cf 5c12c77f63b6.03.80.eb.2c.48.00.67.cf
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file

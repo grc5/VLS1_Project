@@ -1,0 +1,12 @@
+A 5 u Eddm_part 5c104e7a15de.03.80.eb.2c.48.00.29.5f 2 2 2 0
+V v 1 1 5c104e7a15de.03.80.eb.2c.48.01.29.5f
+F f 1 "part.part_1"
+V v 2 1 5c1c63cb1cb2.03.80.eb.2c.4a.00.45.e9
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic" 1 mgc_schematic 5c104e55e334.03.80.eb.2c.48.01.29.5f 5c104e55e334.03.80.eb.2c.48.00.29.5f
+R csduv 1 "$HOME/VLSI/library/INVERTER/schem/INVERTER/INVERTER" 1 mgc_symbol 5c1c639ea025.03.80.eb.2c.4a.01.45.e9 5c105dfc3682.03.80.eb.2c.46.00.10.9e
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic" 1 mgc_schematic 5c104e55e334.03.80.eb.2c.48.01.29.5f 5c104e55e334.03.80.eb.2c.48.00.29.5f

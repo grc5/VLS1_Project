@@ -1,0 +1,14 @@
+A 5 u mgc_schematic 5c16d471ed99.03.80.eb.2c.4b.00.64.bf 3 2 1 0
+V v 1 1 5c16d471ed9a.03.80.eb.2c.4b.00.64.bf
+F o 0 ""
+V v 2 1 5c16d514c8da.03.80.eb.2c.4b.00.18.c5
+F o 0 ""
+V v 3 1 5c16d53f35a3.03.80.eb.2c.4b.00.18.c5
+F o 0 ""
+O 3
+R cspuv 0 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/schematic/sheet1" 3 mgc_sheet 5c16d53f331e.03.80.eb.2c.4b.00.18.c5 5c16d471f3a4.03.80.eb.2c.4b.00.64.bf
+O 2
+R cspuv 0 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/schematic/sheet1" 2 mgc_sheet 5c16d514c59a.03.80.eb.2c.4b.00.18.c5 5c16d471f3a4.03.80.eb.2c.4b.00.64.bf
+O 1
+R cspuv 0 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/schematic/sheet1" 1 mgc_sheet 5c16d471f3a4.03.80.eb.2c.4b.01.64.bf 5c16d471f3a4.03.80.eb.2c.4b.00.64.bf
+P "eddm__refer_state" "eddm__refer_floating"

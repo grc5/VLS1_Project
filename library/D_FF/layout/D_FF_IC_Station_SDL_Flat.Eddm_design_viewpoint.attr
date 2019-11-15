@@ -1,0 +1,15 @@
+A 5 u Eddm_design_viewpoint 5c170d719ecd.03.80.eb.2c.4b.00.0c.e0 1 2 6 0
+V v 1 4 5c170d719ecd.03.80.eb.2c.4b.01.0c.e0
+F f 1 "D_FF_IC_Station_SDL_Flat.dvpt_1"
+F o 0 
+F o 0 
+F o 0 
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R cspuv 0 "/afs/cad/u/j/p/jpw33/VLSI/library/D_FF/schem/D_FF/part" 2 Eddm_part 5c170bacaa2a.03.80.eb.2c.4b.00.1f.c0 5c170b8b2877.03.80.eb.2c.4b.00.1f.c0
+R cspuv 1 "$HOME/VLSI/library/D_FF/schem/D_FF/schematic" 3 mgc_schematic 5c170bb3ea40.03.80.eb.2c.4b.00.1f.c0 5c170b7431de.03.80.eb.2c.4b.00.1f.c0
+R cspuv 2 "$HOME/VLSI/library/D_FF/schem/D_FF/D_FF" 1 mgc_symbol 5c170b9eba1a.03.80.eb.2c.4b.01.1f.c0 5c170b9eba1a.03.80.eb.2c.4b.00.1f.c0
+R cspuv 3 "$HOME/VLSI/library/NAND2/schem/NAND2/part" 5 Eddm_part 5c16bb40abb6.03.80.eb.2c.4b.00.64.bf 5c16b8b9617f.03.80.eb.2c.4b.00.60.e9
+R cspuv 4 "$HOME/VLSI/library/NAND2/schem/NAND2/schematic" 1 mgc_schematic 5c16b8755f2e.03.80.eb.2c.4b.01.60.e9 5c16b8755f2e.03.80.eb.2c.4b.00.60.e9
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 5 "$HOME/VLSI/library/NAND2/schem/NAND2/NAND2" 4 mgc_symbol 5c16bb40abb4.03.80.eb.2c.4b.00.64.bf 5c16b8f58641.03.80.eb.2c.4b.00.60.e9

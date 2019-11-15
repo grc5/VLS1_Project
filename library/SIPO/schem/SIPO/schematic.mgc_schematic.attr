@@ -1,0 +1,14 @@
+A 5 u mgc_schematic 5c16f7c9d458.03.80.eb.2c.4b.00.1f.c0 3 2 1 0
+V v 1 1 5c16f7c9d458.03.80.eb.2c.4b.01.1f.c0
+F o 0 ""
+V v 2 1 5c170a254228.03.80.eb.2c.4b.00.1f.c0
+F o 0 ""
+V v 3 1 5c170d0cba83.03.80.eb.2c.4b.00.0f.37
+F o 0 ""
+O 3
+R cspuv 0 "$HOME/VLSI/library/SIPO/schem/SIPO/schematic/sheet1" 2 mgc_sheet 5c170d0cb903.03.80.eb.2c.4b.00.0f.37 5c16f7c9dc7c.03.80.eb.2c.4b.00.1f.c0
+O 2
+R cspuv 0 "$HOME/VLSI/library/SIPO/schem/SIPO/schematic/sheet1" 1 mgc_sheet 5c16f7c9dc7c.03.80.eb.2c.4b.01.1f.c0 5c16f7c9dc7c.03.80.eb.2c.4b.00.1f.c0
+O 1
+R cspuv 0 "$HOME/VLSI/library/SIPO/schem/SIPO/schematic/sheet1" 1 mgc_sheet 5c16f7c9dc7c.03.80.eb.2c.4b.01.1f.c0 5c16f7c9dc7c.03.80.eb.2c.4b.00.1f.c0
+P "eddm__refer_state" "eddm__refer_floating"

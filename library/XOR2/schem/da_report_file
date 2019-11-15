@@ -1,0 +1,241 @@
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   2 warnings
+  Warning:  Unconnected pins on
+           Instance(s) at Pins(s):
+           I$10        P$375      P$379      P$385      P$391
+           I$31        P$816
+           I$1         P$61       P$65       P$73       P$79
+           I$2         P$108      P$112      P$118      P$124
+           I$6         P$189      P$193      P$199      P$205
+           I$7         P$234      P$238      P$244      P$250
+           I$15        P$572
+           I$11        P$420      P$424      P$430      P$436
+           I$34        P$949      P$953      P$957      P$963
+           I$33        P$904      P$914
+           I$32        P$861      P$865      P$875
+           I$13        P$516      P$518      P$522      P$528
+           I$12        P$471      P$475      P$481      P$487
+  Warning:  Dangling (unnamed) vertices on
+           Net(s)      at Vertex(s):
+           N$277       V$2639     V$2635
+
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 2 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Interface "XOR2" has no pins
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 3 Warnings
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Interface "XOR2" has no pins
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 1 Warnings
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Interface "XOR2" has no pins
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 1 Warnings
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Interface "XOR2" has no pins
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 1 Warnings
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Interface "XOR2" has no pins
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 1 Warnings
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------   0 errors   1 warnings
+  Warning:  Interface "XOR2" has no pins
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 1 Warnings
+
+
+Check Symbol "XOR2/XOR2"
+Check Body -------   0 errors   0 warnings  (MGC-required)
+Check Interface --   0 errors   5 warnings
+  Warning:  The following pins on the symbol are not on the interface: out
+  Warning:  The following pins on the symbol are not on the interface: A
+  Warning:  The following pins on the symbol are not on the interface: B
+  Warning:  The following pins on the symbol are not on the interface: A_b
+  Warning:  The following pins on the symbol are not on the interface: B_b
+
+Check Pin --------   0 errors   0 warnings  (MGC-required)
+Check Special ----   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/XOR2" passed check :  0 Errors, 5 Warnings
+
+
+Check Schematic  "XOR2/schematic/sheet1"
+Check Sheet "XOR2/schematic/sheet1"
+Check SymbolPins --------   0 errors   0 warnings  (MGC-required)
+Check Overlap -----------   0 errors   0 warnings
+Check NotDots -----------   0 errors   0 warnings
+Check Closedots ---------   0 errors   0 warnings
+Check Dangle ------------   0 errors   0 warnings
+Check INIT Properties ---   0 errors   0 warnings
+Check Function Blocks ---   0 errors   0 warnings
+Check Owner -------------   0 errors   0 warnings
+Check Instance ----------   0 errors   0 warnings  (MGC-required)
+Check Special -----------   0 errors   0 warnings  (MGC-required)
+Check Net ---------------   0 errors   0 warnings  (MGC-required)
+Check Frame -------------   0 errors   0 warnings  (MGC-required)
+
+ "XOR2/schematic/sheet1" passed check :  0 Errors, 0 Warnings
+
+Check Schematic Interface -------  12 errors   0 warnings
+  Error:  No interface pin found for external net "I[3]" (N$394) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[3]" (N$383) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[4]" (N$394) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[4]" (N$385) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[2]" (N$394) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[2]" (N$386) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[1]" (N$394) on sheet "sheet1".
+  Error:  No interface pin found for external net "I[1]" (N$389) on sheet "sheet1".
+  Error:  No net found for interface pin "A".
+  Error:  No net found for interface pin "B".
+  Error:  No net found for interface pin "A_b".
+  Error:  No net found for interface pin "B_b".
+
+Check Schematic Instance --------   0 errors   0 warnings
+Check Schematic Special ---------   0 errors   0 warnings
+Check Schematic Net -------------   0 errors   0 warnings
+Check Schematic Function Blocks -   0 errors   0 warnings
+
+ "XOR2/schematic/sheet1" failed check :  12 Errors, 0 Warnings

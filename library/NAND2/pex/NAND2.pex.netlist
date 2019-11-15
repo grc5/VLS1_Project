@@ -1,0 +1,27 @@
+* File: NAND2.pex.netlist
+* Created: Mon Dec 10 22:00:03 2018
+* Program "Calibre xRC"
+* Version "v2012.2_36.25"
+* 
+.include "NAND2.pex.netlist.pex"
+.subckt NAND2  GND VDD B A OUTPUT
+* 
+* OUTPUT	OUTPUT
+* A	A
+* B	B
+* VDD	VDD
+* GND	GND
+M0 N_6_M0_d N_B_M0_g N_GND_M0_s N_GND_M0_b n L=1.8e-07 W=5.4e-07 AD=3.402e-13
++ AS=4.941e-13
+M1 N_OUTPUT_M1_d N_A_M1_g N_6_M1_s N_GND_M0_b n L=1.8e-07 W=5.4e-07 AD=4.941e-13
++ AS=3.402e-13
+M2 N_OUTPUT_M2_d N_B_M2_g N_VDD_M2_s N_VDD_M2_b p L=1.8e-07 W=5.4e-07
++ AD=5.427e-13 AS=4.941e-13
+M3 N_VDD_M3_d N_A_M3_g N_OUTPUT_M3_s N_VDD_M2_b p L=1.8e-07 W=5.4e-07
++ AD=4.941e-13 AS=5.427e-13
+*
+.include "NAND2.pex.netlist.NAND2.pxi"
+*
+.ends
+*
+*

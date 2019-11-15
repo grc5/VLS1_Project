@@ -1,0 +1,14 @@
+* Component: $HOME/VLSI/library/XOR2/schem/XOR2  Viewpoint: sdl
+.INCLUDE $HOME/VLSI/library/XOR2/schem/XOR2/sdl/XOR2_sdl.spi
+.OPTION NOASCII
+.OPTION MODWL
+.OPTION ENGNOT
+.OPTION AEX
+
+* --- Singles
+
+* --- Params
+.TEMP 27
+
+* --- Libsetup
+

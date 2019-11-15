@@ -1,0 +1,13 @@
+A 5 u mgc_schematic 5c16cd3d8091.03.80.eb.2c.4b.00.64.bf 4 2 1 0
+V v 2 1 5c16d05d542a.03.80.eb.2c.4b.00.64.bf
+F o 0 ""
+V v 3 1 5c16d1b28eb2.03.80.eb.2c.4b.00.64.bf
+F o 0 ""
+V v 4 1 5c16d2107b49.03.80.eb.2c.4b.00.64.bf
+F o 0 ""
+O 4
+R cspuv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/schematic/sheet1" 3 mgc_sheet 5c16d2107a01.03.80.eb.2c.4b.00.64.bf 5c16cd3d8a3f.03.80.eb.2c.4b.00.64.bf
+O 3
+R cspuv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/schematic/sheet1" 2 mgc_sheet 5c16d1b28d21.03.80.eb.2c.4b.00.64.bf 5c16cd3d8a3f.03.80.eb.2c.4b.00.64.bf
+O 2
+R cspuv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/schematic/sheet1" 1 mgc_sheet 5c16cd3d8a3f.03.80.eb.2c.4b.01.64.bf 5c16cd3d8a3f.03.80.eb.2c.4b.00.64.bf

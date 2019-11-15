@@ -1,0 +1,22 @@
+* File: INVERTER.pex.netlist
+* Created: Tue Dec 11 19:55:24 2018
+* Program "Calibre xRC"
+* Version "v2012.2_36.25"
+* 
+.include "INVERTER.pex.netlist.pex"
+.subckt INVERTER  GND VDD A OUT
+* 
+* OUT	OUT
+* A	A
+* VDD	VDD
+* GND	GND
+M0 N_OUT_M0_d N_A_M0_g N_GND_M0_s N_GND_M0_b n L=1.8e-07 W=2.7e-07 AD=4.698e-13
++ AS=4.698e-13
+M1 N_OUT_M1_d N_A_M1_g N_VDD_M1_s N_VDD_M1_b p L=1.8e-07 W=5.4e-07 AD=4.941e-13
++ AS=4.941e-13
+*
+.include "INVERTER.pex.netlist.INVERTER.pxi"
+*
+.ends
+*
+*

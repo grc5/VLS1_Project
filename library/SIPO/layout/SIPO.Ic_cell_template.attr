@@ -1,0 +1,41 @@
+A 5 u Ic_cell_template 5c171c7bb135.03.80.eb.2c.4b.00.0c.e0 29 4 13 0
+V v 25 2 5c186c6382de.03.80.eb.2c.4b.00.56.4e
+F f 25 "SIPO.iccel_25"
+F o 0 ""
+V v 26 2 5c1873b3697e.03.80.eb.2c.4b.00.56.4e
+F f 26 "SIPO.iccel_26"
+F o 0 ""
+V v 27 2 5c188c0d25ae.03.80.eb.2c.4b.00.56.4e
+F f 27 "SIPO.iccel_27"
+F o 0 ""
+V v 28 2 5c188f5a1f5a.03.80.eb.2c.4b.00.56.4e
+F f 28 "SIPO.iccel_28"
+F o 0 ""
+V v 29 2 5c189767c67f.03.80.eb.2c.4b.00.56.4e
+F f 29 "SIPO.iccel_29"
+F o 0 ""
+O 29
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csdni 9 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+R csduv 10 "/afs/cad/u/j/p/jpw33/VLSI/library/SIPO/schem/SIPO/layout" 1 Eddm_design_viewpoint 5c171cb3c705.03.80.eb.2c.4b.01.36.c0 5c171cb3c705.03.80.eb.2c.4b.00.36.c0
+R csduv 12 "/afs/cad/u/j/p/jpw33/VLSI/library/D_FF/layout/D_FF" 6 Ic_cell_template 5c186c0089ae.03.80.eb.2c.4b.00.56.4e 5c170d71a737.03.80.eb.2c.4b.00.0c.e0
+O 28
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csdni 9 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+R csduv 10 "/afs/cad/u/j/p/jpw33/VLSI/library/SIPO/schem/SIPO/layout" 1 Eddm_design_viewpoint 5c171cb3c705.03.80.eb.2c.4b.01.36.c0 5c171cb3c705.03.80.eb.2c.4b.00.36.c0
+R csduv 12 "/afs/cad/u/j/p/jpw33/VLSI/library/D_FF/layout/D_FF" 6 Ic_cell_template 5c186c0089ae.03.80.eb.2c.4b.00.56.4e 5c170d71a737.03.80.eb.2c.4b.00.0c.e0
+O 27
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csdni 9 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+R csduv 10 "/afs/cad/u/j/p/jpw33/VLSI/library/SIPO/schem/SIPO/layout" 1 Eddm_design_viewpoint 5c171cb3c705.03.80.eb.2c.4b.01.36.c0 5c171cb3c705.03.80.eb.2c.4b.00.36.c0
+R csduv 12 "/afs/cad/u/j/p/jpw33/VLSI/library/D_FF/layout/D_FF" 6 Ic_cell_template 5c186c0089ae.03.80.eb.2c.4b.00.56.4e 5c170d71a737.03.80.eb.2c.4b.00.0c.e0
+O 26
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csdni 9 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+R csduv 10 "/afs/cad/u/j/p/jpw33/VLSI/library/SIPO/schem/SIPO/layout" 1 Eddm_design_viewpoint 5c171cb3c705.03.80.eb.2c.4b.01.36.c0 5c171cb3c705.03.80.eb.2c.4b.00.36.c0
+R csduv 12 "/afs/cad/u/j/p/jpw33/VLSI/library/D_FF/layout/D_FF" 6 Ic_cell_template 5c186c0089ae.03.80.eb.2c.4b.00.56.4e 5c170d71a737.03.80.eb.2c.4b.00.0c.e0
+O 25
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csdni 9 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+R csduv 10 "/afs/cad/u/j/p/jpw33/VLSI/library/SIPO/schem/SIPO/layout" 1 Eddm_design_viewpoint 5c171cb3c705.03.80.eb.2c.4b.01.36.c0 5c171cb3c705.03.80.eb.2c.4b.00.36.c0
+R csduv 12 "/afs/cad/u/j/p/jpw33/VLSI/library/D_FF/layout/D_FF" 6 Ic_cell_template 5c186c0089ae.03.80.eb.2c.4b.00.56.4e 5c170d71a737.03.80.eb.2c.4b.00.0c.e0

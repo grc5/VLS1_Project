@@ -1,0 +1,16 @@
+A 5 u mgc_symbol 5c16d0823f99.03.80.eb.2c.4b.00.64.bf 4 2 1 0
+V v 2 2 5c16d2b2686f.03.80.eb.2c.4b.00.64.bf
+F f 2 "MUX2_1.smbl_2"
+F o 0 ""
+V v 3 2 5c16d30df1aa.03.80.eb.2c.4b.00.64.bf
+F f 3 "MUX2_1.smbl_3"
+F o 0 ""
+V v 4 2 5c16d319a3a1.03.80.eb.2c.4b.00.64.bf
+F f 4 "MUX2_1.smbl_4"
+F o 0 ""
+O 4
+R csduv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/part" 4 Eddm_part 5c16d30df1ad.03.80.eb.2c.4b.00.64.bf 5c16d05d4c93.03.80.eb.2c.4b.00.64.bf
+O 3
+R csduv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/part" 4 Eddm_part 5c16d30df1ad.03.80.eb.2c.4b.00.64.bf 5c16d05d4c93.03.80.eb.2c.4b.00.64.bf
+O 2
+R csduv 0 "$HOME/VLSI/library/MUX2_1/schem/MUX2_1/part" 3 Eddm_part 5c16d2b26a0d.03.80.eb.2c.4b.00.64.bf 5c16d05d4c93.03.80.eb.2c.4b.00.64.bf

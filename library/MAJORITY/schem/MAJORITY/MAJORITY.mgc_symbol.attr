@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 5c16d52d6058.03.80.eb.2c.4b.00.18.c5 1 2 1 0
+V v 1 2 5c16d52d6058.03.80.eb.2c.4b.01.18.c5
+F f 1 "MAJORITY.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/part" 2 Eddm_part 5c16d5330aec.03.80.eb.2c.4b.00.18.c5 5c16d514bf6a.03.80.eb.2c.4b.00.18.c5

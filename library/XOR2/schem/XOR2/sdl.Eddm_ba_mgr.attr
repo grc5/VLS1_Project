@@ -1,0 +1,6 @@
+A 5 u Eddm_ba_mgr 5c05e5de37e5.03.80.eb.2c.48.00.7b.f8 1 2 1 0
+V v 1 1 5c05e5de37e5.03.80.eb.2c.48.01.7b.f8
+F f 1 "sdl.ba_1"
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R cspuv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/sdl" 1 Eddm_design_viewpoint 5c05e5de32e3.03.80.eb.2c.48.01.7b.f8 5c05e5de32e3.03.80.eb.2c.48.00.7b.f8

@@ -1,0 +1,12 @@
+A 5 u Eddm_part 5c170b8b2877.03.80.eb.2c.4b.00.1f.c0 2 2 2 0
+V v 1 1 5c170b8b2877.03.80.eb.2c.4b.01.1f.c0
+F f 1 "part.part_1"
+V v 2 1 5c170bacaa2a.03.80.eb.2c.4b.00.1f.c0
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/D_FF/schem/D_FF/schematic" 1 mgc_schematic 5c170b7431de.03.80.eb.2c.4b.01.1f.c0 5c170b7431de.03.80.eb.2c.4b.00.1f.c0
+R csduv 1 "$HOME/VLSI/library/D_FF/schem/D_FF/D_FF" 1 mgc_symbol 5c170b9eba1a.03.80.eb.2c.4b.01.1f.c0 5c170b9eba1a.03.80.eb.2c.4b.00.1f.c0
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/D_FF/schem/D_FF/schematic" 1 mgc_schematic 5c170b7431de.03.80.eb.2c.4b.01.1f.c0 5c170b7431de.03.80.eb.2c.4b.00.1f.c0

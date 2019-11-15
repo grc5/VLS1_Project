@@ -1,0 +1,13 @@
+* SPICE NETLIST
+***************************************
+
+.SUBCKT INVERTER GND VDD A out
+** N=4 EP=4 IP=0 FDC=2
+* PORT GND GND 30000 2500 METAL3
+* PORT VDD VDD 30000 57500 METAL3
+* PORT A A 28500 30000 METAL3
+* PORT out out 42000 30000 METAL3
+M0 out A GND GND N L=1.8e-07 W=2.7e-07 AD=4.698e-13 AS=4.698e-13 $X=29000 $Y=19000 $D=1
+M1 out A VDD VDD P L=1.8e-07 W=5.4e-07 AD=4.941e-13 AS=4.941e-13 $X=29000 $Y=37000 $D=0
+.ENDS
+***************************************

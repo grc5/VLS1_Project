@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 5c170b9eba1a.03.80.eb.2c.4b.00.1f.c0 1 2 1 0
+V v 1 2 5c170b9eba1a.03.80.eb.2c.4b.01.1f.c0
+F f 1 "D_FF.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/VLSI/library/D_FF/schem/D_FF/part" 2 Eddm_part 5c170bacaa2a.03.80.eb.2c.4b.00.1f.c0 5c170b8b2877.03.80.eb.2c.4b.00.1f.c0

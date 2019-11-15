@@ -1,0 +1,16 @@
+A 5 u mgc_symbol 5c16b8f58641.03.80.eb.2c.4b.00.60.e9 4 2 1 0
+V v 2 2 5c16b9633047.03.80.eb.2c.4b.00.64.bf
+F f 2 "NAND2.smbl_2"
+F o 0 ""
+V v 3 2 5c16b98e0c5c.03.80.eb.2c.4b.00.64.bf
+F f 3 "NAND2.smbl_3"
+F o 0 ""
+V v 4 2 5c16bb40abb4.03.80.eb.2c.4b.00.64.bf
+F f 4 "NAND2.smbl_4"
+F o 0 ""
+O 4
+R csduv 0 "$HOME/VLSI/library/NAND2/schem/NAND2/part" 5 Eddm_part 5c16bb40abb6.03.80.eb.2c.4b.00.64.bf 5c16b8b9617f.03.80.eb.2c.4b.00.60.e9
+O 3
+R csduv 0 "$HOME/VLSI/library/NAND2/schem/NAND2/part" 4 Eddm_part 5c16b98e0f46.03.80.eb.2c.4b.00.64.bf 5c16b8b9617f.03.80.eb.2c.4b.00.60.e9
+O 2
+R csduv 0 "$HOME/VLSI/library/NAND2/schem/NAND2/part" 3 Eddm_part 5c16b96331dc.03.80.eb.2c.4b.00.64.bf 5c16b8b9617f.03.80.eb.2c.4b.00.60.e9

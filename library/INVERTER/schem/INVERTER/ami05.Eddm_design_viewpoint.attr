@@ -1,0 +1,12 @@
+A 5 u Eddm_design_viewpoint 5c1c65244c93.03.80.eb.2c.4b.00.1a.56 1 2 3 0
+V v 1 4 5c1c65245736.03.80.eb.2c.4b.00.1a.56
+F f 1 "ami05.dvpt_1"
+F o 0 
+F o 0 
+F o 0 
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R cspuv 0 "/afs/cad/u/g/r/grc5/VLSI/library/INVERTER/schem/INVERTER/part" 2 Eddm_part 5c1c63cb1cb2.03.80.eb.2c.4a.00.45.e9 5c104e7a15de.03.80.eb.2c.48.00.29.5f
+R cspuv 1 "$HOME/VLSI/library/INVERTER/schem/INVERTER/schematic" 1 mgc_schematic 5c104e55e334.03.80.eb.2c.48.01.29.5f 5c104e55e334.03.80.eb.2c.48.00.29.5f
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 2 "$HOME/VLSI/library/INVERTER/schem/INVERTER/INVERTER" 1 mgc_symbol 5c1c639ea025.03.80.eb.2c.4a.01.45.e9 5c105dfc3682.03.80.eb.2c.46.00.10.9e

@@ -1,0 +1,12 @@
+A 5 u Eddm_part 5c16d514bf6a.03.80.eb.2c.4b.00.18.c5 2 2 2 0
+V v 1 1 5c16d514bf6a.03.80.eb.2c.4b.01.18.c5
+F f 1 "part.part_1"
+V v 2 1 5c16d5330aec.03.80.eb.2c.4b.00.18.c5
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/schematic" 1 mgc_schematic 5c16d471ed9a.03.80.eb.2c.4b.00.64.bf 5c16d471ed99.03.80.eb.2c.4b.00.64.bf
+R csduv 1 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/MAJORITY" 1 mgc_symbol 5c16d52d6058.03.80.eb.2c.4b.01.18.c5 5c16d52d6058.03.80.eb.2c.4b.00.18.c5
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/MAJORITY/schem/MAJORITY/schematic" 1 mgc_schematic 5c16d471ed9a.03.80.eb.2c.4b.00.64.bf 5c16d471ed99.03.80.eb.2c.4b.00.64.bf

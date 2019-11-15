@@ -1,0 +1,14 @@
+A 5 u mgc_schematic 5c170b7431de.03.80.eb.2c.4b.00.1f.c0 3 2 1 0
+V v 1 1 5c170b7431de.03.80.eb.2c.4b.01.1f.c0
+F o 0 ""
+V v 2 1 5c170b8b2ec9.03.80.eb.2c.4b.00.1f.c0
+F o 0 ""
+V v 3 1 5c170bb3ea40.03.80.eb.2c.4b.00.1f.c0
+F o 0 ""
+O 3
+R cspuv 0 "$HOME/VLSI/library/D_FF/schem/D_FF/schematic/sheet1" 2 mgc_sheet 5c170bb3e918.03.80.eb.2c.4b.00.1f.c0 5c170b743c97.03.80.eb.2c.4b.00.1f.c0
+O 2
+R cspuv 0 "$HOME/VLSI/library/D_FF/schem/D_FF/schematic/sheet1" 1 mgc_sheet 5c170b743c97.03.80.eb.2c.4b.01.1f.c0 5c170b743c97.03.80.eb.2c.4b.00.1f.c0
+O 1
+R cspuv 0 "$HOME/VLSI/library/D_FF/schem/D_FF/schematic/sheet1" 1 mgc_sheet 5c170b743c97.03.80.eb.2c.4b.01.1f.c0 5c170b743c97.03.80.eb.2c.4b.00.1f.c0
+P "eddm__refer_state" "eddm__refer_floating"

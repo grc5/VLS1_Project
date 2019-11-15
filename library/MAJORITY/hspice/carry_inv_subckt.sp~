@@ -1,0 +1,20 @@
+*carry_inv_subckt
+
+*SUBCKT
+.SUBCKT maj Vdd gnd A_bar B_bar C_bar output w_n='2' w_p=4 L_n='2' L_p='2'
+
+*PMOS
+M1 y A_bar vdd vdd Pmos W='w_p' L='L_p'
+M2 y B_bar vdd vdd Pmos W='w_p' L='L_p'
+M3 output C_bar y vdd Pmos W='w_p' L='L_p'
+M4 x A_bar vdd vdd Pmos W='w_p' L='L_p'
+M5 output B_bar x vdd Pmos W='w_p' L='L_p'
+
+*NMOS
+M6 output A_bar z gnd Nmos W='w_n*3/2' L='L_n'
+M7 output B_bar z  gnd Nmos W='w_n*3/4' L='L_n'
+M8 z A_bar w gnd Nmos W='w_n*3/2' L='L_n'
+M9 w B_bar gnd gnd Nmos W='w_n*3/4' L='L_n'
+M10 z C_bar gnd gnd Nmos W='w_n/2' L='L_n'
+
+.ends

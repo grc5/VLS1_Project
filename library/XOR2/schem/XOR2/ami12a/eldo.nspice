@@ -1,0 +1,24 @@
+* ELDO netlist generated with ICnet by 'jpw33' on Mon Dec  3 2018 at 21:48:41
+
+*
+* Globals.
+*
+.global vdd gnd
+
+*
+* MAIN CELL: Component pathname : $HOME/VLSI/library/XOR2/schem/XOR2
+*
+        mn1 vout i[1] n$40 gnd n L=2u W=5u
+        mp5 i[3] i[1] vdd vdd p L=2u W=5u
+        mn5 i[3] i[1] gnd gnd n L=2u W=5u
+        mp6 i[4] i[2] vdd vdd p L=2u W=5u
+        mn6 i[4] i[2] gnd gnd n L=2u W=5u
+        mn2 n$40 i[2] gnd gnd n L=2u W=5u
+        mn3 vout i[3] n$46 gnd n L=2u W=5u
+        mp4 vout i[4] n$20 n$184 p L=2u W=5u
+        mp3 vout i[3] n$20 n$184 p L=2u W=5u
+        mn4 n$46 i[4] gnd gnd n L=2u W=5u
+        mp2 n$20 i[2] vdd vdd p L=2u W=5u
+        mp1 n$20 i[1] vdd vdd p L=2u W=5u
+*
+.end

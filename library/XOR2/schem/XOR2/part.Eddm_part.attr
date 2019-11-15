@@ -1,0 +1,18 @@
+A 5 u Eddm_part 5bf48fb25f4c.03.80.eb.2c.48.00.33.4b 3 2 2 0
+V v 1 1 5bf48fb25f4c.03.80.eb.2c.48.01.33.4b
+F f 1 "part.part_1"
+V v 2 1 5c0b2566b6c1.03.80.eb.2c.48.00.0e.d1
+F f 2 "part.part_2"
+V v 3 1 5c1c627cd549.03.80.eb.2c.4a.00.45.e9
+F f 3 "part.part_3"
+O 3
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/schematic" 1 mgc_schematic 5bf47ccd20fc.03.80.eb.2c.48.01.33.4b 5bf47ccd20fc.03.80.eb.2c.48.00.33.4b
+R csduv 1 "$HOME/VLSI/library/XOR2/schem/XOR2/XOR2" 3 mgc_symbol 5c1c626ddabf.03.80.eb.2c.4a.00.45.e9 5c0b23c309fb.03.80.eb.2c.48.00.0e.d1
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/schematic" 1 mgc_schematic 5bf47ccd20fc.03.80.eb.2c.48.01.33.4b 5bf47ccd20fc.03.80.eb.2c.48.00.33.4b
+R csduv 1 "$HOME/VLSI/library/XOR2/schem/XOR2/XOR2" 1 mgc_symbol 5c0b2506815e.03.80.eb.2c.48.01.0e.d1 5c0b23c309fb.03.80.eb.2c.48.00.0e.d1
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/XOR2/schem/XOR2/schematic" 1 mgc_schematic 5bf47ccd20fc.03.80.eb.2c.48.01.33.4b 5bf47ccd20fc.03.80.eb.2c.48.00.33.4b

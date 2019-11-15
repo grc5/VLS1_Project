@@ -1,0 +1,11 @@
+* Component: $HOME/VLSI/library/XOR2/schem/XOR2  Viewpoint: ami12a
+.INCLUDE $HOME/VLSI/library/XOR2/schem/XOR2/ami12a/XOR2_ami12a.spi
+.OPTION NOASCII
+.OPTION MODWL
+.OPTION ENGNOT
+.OPTION AEX
+
+* --- Singles
+
+* --- Libsetup
+

@@ -1,0 +1,12 @@
+A 5 u Eddm_part 5c12c5119b59.03.80.eb.2c.48.00.60.9d 2 2 2 0
+V v 1 1 5c12c5119b59.03.80.eb.2c.48.01.60.9d
+F f 1 "part.part_1"
+V v 2 1 5c1c8a75ad12.03.80.eb.2c.4a.00.45.e9
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/NOR2/schem/NOR2/schematic" 10 mgc_schematic 5be48d858edb.03.80.eb.2c.4b.00.3e.81 5be214269010.03.80.eb.2c.48.00.5d.a7
+R csduv 1 "$HOME/VLSI/library/NOR2/schem/NOR2/NOR2" 1 mgc_symbol 5c1c8a1ece41.03.80.eb.2c.4a.01.45.e9 5c1c8a1ece41.03.80.eb.2c.4a.00.45.e9
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/NOR2/schem/NOR2/schematic" 10 mgc_schematic 5be48d858edb.03.80.eb.2c.4b.00.3e.81 5be214269010.03.80.eb.2c.48.00.5d.a7

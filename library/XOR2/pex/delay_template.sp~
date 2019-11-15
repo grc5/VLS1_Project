@@ -1,0 +1,14 @@
+* delay_template.sp
+* Delay Template for Python code *
+
+* Setup
+.OPTION SCALE=90n
+.OPTION POST
+.PARAM supply=1.3
+
+* Includes
+.INCLUDE "XOR2.pex.netlist"
+
+* Voltages
+V1 vdd gnd "supply"
+{volts}

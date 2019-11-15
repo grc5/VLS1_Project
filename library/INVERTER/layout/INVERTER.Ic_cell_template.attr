@@ -1,0 +1,36 @@
+A 5 u Ic_cell_template 5c1054b3a2bd.03.80.eb.2c.48.00.42.ba 11 4 4 0
+V v 7 2 5c105b584bdb.03.80.eb.2c.48.00.42.ba
+F f 7 "INVERTER.iccel_7"
+F o 0 ""
+V v 8 2 5c105be86256.03.80.eb.2c.48.00.42.ba
+F f 8 "INVERTER.iccel_8"
+F o 0 ""
+V v 9 2 5c105be95856.03.80.eb.2c.48.00.42.ba
+F f 9 "INVERTER.iccel_9"
+F o 0 ""
+V v 10 2 5c105bf415a5.03.80.eb.2c.48.00.42.ba
+F f 10 "INVERTER.iccel_10"
+F o 0 ""
+V v 11 2 5c1cb4200665.03.80.eb.2c.4b.00.14.e8
+F f 11 "INVERTER.iccel_11"
+F o 0 ""
+O 11
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/INVERTER/layout/INVERTER_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c1054b399d2.03.80.eb.2c.48.01.42.ba 5c1054b399d2.03.80.eb.2c.48.00.42.ba
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 10
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/INVERTER/layout/INVERTER_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c1054b399d2.03.80.eb.2c.48.01.42.ba 5c1054b399d2.03.80.eb.2c.48.00.42.ba
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 9
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/INVERTER/layout/INVERTER_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c1054b399d2.03.80.eb.2c.48.01.42.ba 5c1054b399d2.03.80.eb.2c.48.00.42.ba
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 8
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/INVERTER/layout/INVERTER_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c1054b399d2.03.80.eb.2c.48.01.42.ba 5c1054b399d2.03.80.eb.2c.48.00.42.ba
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file
+O 7
+R csduv 1 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018" 1 Ic_persist_process 43348e50e208.03.93.22.46.d8.00.6c.be 43349f1b0fb4.03.93.22.46.d8.06.02.fa
+R csduv 2 "/afs/cad/u/j/p/jpw33/VLSI/library/INVERTER/layout/INVERTER_IC_Station_SDL_Flat" 1 Eddm_design_viewpoint 5c1054b399d2.03.80.eb.2c.48.01.42.ba 5c1054b399d2.03.80.eb.2c.48.00.42.ba
+R csdni 3 "/afs/cad/sw.common/mentor.2012/adk3_1/technology/ic/process/tsmc018.rules" 1 Mgc_file

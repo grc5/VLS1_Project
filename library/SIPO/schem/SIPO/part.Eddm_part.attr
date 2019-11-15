@@ -1,0 +1,6 @@
+A 5 u Eddm_part 5c170a252f0a.03.80.eb.2c.4b.00.1f.c0 1 2 1 0
+V v 1 1 5c170a252f0a.03.80.eb.2c.4b.01.1f.c0
+F f 1 "part.part_1"
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/VLSI/library/SIPO/schem/SIPO/schematic" 1 mgc_schematic 5c16f7c9d458.03.80.eb.2c.4b.01.1f.c0 5c16f7c9d458.03.80.eb.2c.4b.00.1f.c0

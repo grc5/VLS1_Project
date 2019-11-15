@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 3
+lvs_ExtRunTimes 1544487691 1544487691
+lvs_ExtOutFile RUNDIR /afs/cad.njit.edu/u/j/p/jpw33/VLSI/library/XOR2/pex
+lvs_ExtOutFile RULES_FILE /afs/cad.njit.edu/u/j/p/jpw33/VLSI/library/XOR2/pex/_tsmc018.calibre.rules_
+lvs_ExtInfoExtSummary {0 0 0 0 0 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST svdb/XOR2.sp
+lvs_ExtOutFile EXTRACTION_REPORT XOR2.lvs.report.ext

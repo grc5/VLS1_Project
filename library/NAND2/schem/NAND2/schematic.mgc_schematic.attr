@@ -1,0 +1,14 @@
+A 5 u mgc_schematic 5c16b8755f2e.03.80.eb.2c.4b.00.60.e9 3 2 1 0
+V v 1 1 5c16b8755f2e.03.80.eb.2c.4b.01.60.e9
+F o 0 ""
+V v 2 1 5c16b8b96bd1.03.80.eb.2c.4b.00.60.e9
+F o 0 ""
+V v 3 1 5c16bb4a070d.03.80.eb.2c.4b.00.64.bf
+F o 0 ""
+O 3
+R cspuv 0 "$HOME/VLSI/library/NAND2/schem/NAND2/schematic/sheet1" 2 mgc_sheet 5c16bb4a0563.03.80.eb.2c.4b.00.64.bf 5c16b8756c8b.03.80.eb.2c.4b.00.60.e9
+O 2
+R cspuv 0 "$HOME/VLSI/library/NAND2/schem/NAND2/schematic/sheet1" 1 mgc_sheet 5c16b8756c8b.03.80.eb.2c.4b.01.60.e9 5c16b8756c8b.03.80.eb.2c.4b.00.60.e9
+O 1
+R cspuv 0 "$HOME/VLSI/library/NAND2/schem/NAND2/schematic/sheet1" 1 mgc_sheet 5c16b8756c8b.03.80.eb.2c.4b.01.60.e9 5c16b8756c8b.03.80.eb.2c.4b.00.60.e9
+P "eddm__refer_state" "eddm__refer_floating"
